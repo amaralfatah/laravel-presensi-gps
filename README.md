@@ -12,6 +12,7 @@ composer install
 ```
 php artisan migrate:fresh --seed
 ```
+- jalankan
 ```
 php artisan ser
 ```
